@@ -1,0 +1,6 @@
+@FundamentalsOfProgramming_HostAddress = http://localhost:5100
+
+GET {{FundamentalsOfProgramming_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
